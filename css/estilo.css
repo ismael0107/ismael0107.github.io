@@ -1,0 +1,25 @@
+body{
+	background-image: url(../imagenes/fondo.jpg)
+}
+ul,ol{
+	list-style: none;
+}
+
+#banner{
+	height: 253px;
+	width: 1000px;
+	padding-left: 180px;
+}
+
+#menu{
+	color: orange;
+	font-family: verdana;
+
+}
+h1{
+	color: white;
+}
+
+li{
+	padding: 15px 15px 15px 15px;
+}
